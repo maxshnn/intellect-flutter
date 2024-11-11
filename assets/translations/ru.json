@@ -1,0 +1,43 @@
+{
+    "welcome_to_intellect": "Добро пожаловать в \n INTELLECT",
+    "ask_anything": "Спроси что угодно, получи ответ",
+    "examples":"Примеры",
+    "explain_quantum_computing_in_simple_terms": "“Объясните квантовые вычисления простым языком”",
+    "got_any_creative_ideas_for_a_10_year_olds_birthday": "Есть какие-нибудь творческие идеи для дня рождения 10-летнего ребенка?",
+    "how_do_i_make_an_http_request_in_js": "“Как сделать HTTP-запрос в Javascript?”",
+    "capabilities":"Возможности",
+    "remembers_what_user_said_earlier_in_the_conversation": "Запоминает, что пользователь сказал ранее в беседе",
+    "allows_user_to_provide_follow_up_corrections": "Позволяет пользователю вносить последующие исправления",
+    "trained_to_decline_inappropriate_requests": "Обучен отклонять неуместные запросы",
+    "limitations": "Ограничения",
+    "may_occasionally_generate_incorrect_information": "Может иногда генерировать неверную информацию",
+    "may_occasionally_produce_harmful_instructions_or_biased_content": "Может иногда создавать вредные инструкции или предвзятый контент",
+    "limited_knowledge_of_world_and_events_after_2021": "Ограниченное знание мира и событий после 2021 года",
+    "next": "Далее",
+    "lets_chat": "Давайте поговорим",
+    "clear_conversations": "Удалить чаты",
+    "upgrade_to_plus": "Обновить до Plus",
+    "new_plan": "NEW",
+    "light_mode":"Светлая тема",
+    "dark_mode":"Темная тема",
+    "updates_and_faq":"Обновления и часто задаваемые вопросы",
+    "logout" : "Выйти",
+    "retour": "Назад",
+    "regenerate_response": "Регенерировать ответ",
+    "write_message":"Начните разговор...",
+    "copy":"Скопировать",
+    "new_chat": "Новый чат",
+    "edit": "Редактировать",
+    "delete": "Удалить",
+    "copied" : "Скопированно!",
+    "on_clear_conversations" : "Все чаты будут удалены, продолжить?" ,
+    "cancel" : "Отмена",
+    "yes" : "Да",
+    "change_language": "Сменить язык",
+    "change":"Сменить",
+    "apply":"Применить"
+
+
+
+
+}
